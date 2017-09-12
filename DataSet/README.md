@@ -41,18 +41,18 @@ avg. 84.637 ratings per movie
 ## Files
 * movies.dat
 
-This file contains information about the movies of the database.
-    
-  The original movie information -title and year- available at MovieLens10M dataset 
-  has been extended with public data provided in IMDb and Rotten Tomatoes websites:
-     - Titles in Spanish
-     - IMDb movie ids
-     - IMDb picture URLs
-         - Rotten Tomatoes movie ids
-         - Rotten Tomatoes picture URLs
-         - Rotten Tomatoes (all/top) critics' ratings, avg. scores, numbers of 
-           reviews/fresh_scores/rotten_scores
-         - Rotten Tomatoes audience' avg. ratings, number of ratings, avg. scores
+  This file contains information about the movies of the database.
+      
+    The original movie information -title and year- available at MovieLens10M dataset 
+    has been extended with public data provided in IMDb and Rotten Tomatoes websites:
+       - Titles in Spanish
+       - IMDb movie ids
+       - IMDb picture URLs
+           - Rotten Tomatoes movie ids
+           - Rotten Tomatoes picture URLs
+           - Rotten Tomatoes (all/top) critics' ratings, avg. scores, numbers of 
+             reviews/fresh_scores/rotten_scores
+           - Rotten Tomatoes audience' avg. ratings, number of ratings, avg. scores
 
 * movie_genres.dat
    
@@ -87,15 +87,14 @@ This file contains information about the movies of the database.
   
   They also contain the timestamps when the tag assignments were done.
  
- * movie_tags.dat
+* movie_tags.dat
 
-  This file contains the tags assigned to the movies, and the number of times 
-  the tags were assigned to each movie.
+  This file contains the tags assigned to the movies, and the number of times the tags were assigned to each movie.
  
- * user_ratedmovies.dat - user_ratedmovies-timestamps.dat
+* user_ratedmovies.dat - user_ratedmovies-timestamps.dat
 
   These files contain the ratings of the movies provided by each particular user.
-    
+  
   They also contain the timestamps when the ratings were provided.
 
 ## Data Format
