@@ -1,6 +1,5 @@
 # Dataset Version 1.0 (May 2011)
 
-## Introduction
 This dataset is an extension of MovieLens10M dataset, published by [GroupLeans research group](http://www.grouplens.org)
 
 It links the movies of MovieLens dataset with their corresponding web pages at [Internet Movie Database](http://www.imdb.com) and [Rotten Tomatoes movie](http://www.rottentomatoes.com) review systems.
